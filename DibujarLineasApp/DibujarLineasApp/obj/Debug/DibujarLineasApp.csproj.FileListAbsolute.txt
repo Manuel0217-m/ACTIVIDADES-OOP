@@ -1,0 +1,10 @@
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\bin\Debug\DibujarLineasApp.exe.config
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\bin\Debug\DibujarLineasApp.exe
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\bin\Debug\DibujarLineasApp.pdb
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\obj\Debug\DibujarLineasApp.csproj.AssemblyReference.cache
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\obj\Debug\DibujarLineasApp.Form1.resources
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\obj\Debug\DibujarLineasApp.Properties.Resources.resources
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\obj\Debug\DibujarLineasApp.csproj.GenerateResource.cache
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\obj\Debug\DibujarLineasApp.csproj.CoreCompileInputs.cache
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\obj\Debug\DibujarLineasApp.exe
+C:\Users\57301\Desktop\Programas visual\DibujarLineasApp\DibujarLineasApp\obj\Debug\DibujarLineasApp.pdb
