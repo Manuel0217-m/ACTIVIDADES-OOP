@@ -1,0 +1,7 @@
+C:\Users\57301\Desktop\Programas visual\UniversidadApp\UniversidadApp\bin\Debug\UniversidadApp.exe.config
+C:\Users\57301\Desktop\Programas visual\UniversidadApp\UniversidadApp\bin\Debug\UniversidadApp.exe
+C:\Users\57301\Desktop\Programas visual\UniversidadApp\UniversidadApp\bin\Debug\UniversidadApp.pdb
+C:\Users\57301\Desktop\Programas visual\UniversidadApp\UniversidadApp\obj\Debug\UniversidadApp.csproj.AssemblyReference.cache
+C:\Users\57301\Desktop\Programas visual\UniversidadApp\UniversidadApp\obj\Debug\UniversidadApp.csproj.CoreCompileInputs.cache
+C:\Users\57301\Desktop\Programas visual\UniversidadApp\UniversidadApp\obj\Debug\UniversidadApp.exe
+C:\Users\57301\Desktop\Programas visual\UniversidadApp\UniversidadApp\obj\Debug\UniversidadApp.pdb
